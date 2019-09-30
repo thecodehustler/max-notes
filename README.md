@@ -8,13 +8,10 @@
 
 点击下面链接就可以直接在浏览器上查看。
 
-[第一章](Chap-1/note.md)
-
-[第二章](Chap-2/note.md)
-
-[第三章](Chap-3/note.md)
-
-[第四章](Chap-4/note.md)
+- [第一章](Chap-1/note.md)
+- [第二章](Chap-2/note.md)
+- [第三章](Chap-3/note.md)
+- [第四章](Chap-4/note.md)
 
 ## TODO
 
