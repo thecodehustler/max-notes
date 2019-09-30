@@ -6,6 +6,8 @@
 
 ## TOC
 
+点击下面链接就可以直接在浏览器上查看。
+
 [第一章](Chap-1/note.md)
 
 [第二章](Chap-2/note.md)
@@ -14,7 +16,7 @@
 
 [第四章](Chap-4/note.md)
 
-## 食用方法
+## 本地食用方法
 
 下载、安装 [Git](https://git-scm.com/downloads) 程序。
 
@@ -30,7 +32,7 @@
 
 Git 是一个非常成熟的分布式版本控制软件，且对多人协作非常友好。
 
-[猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/)
+~~[猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/)~~ 此教程现在看来已略显过时，请转而参看[廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)。
 
 ## 这是如何编写的？
 
@@ -41,6 +43,8 @@ Git 是一个非常成熟的分布式版本控制软件，且对多人协作非�
 欢迎把自己的心得也添加进来。请参考 [Markdown 入门指南](https://zhuanlan.zhihu.com/p/25411810)
 
 ---
+
+[sigh]: 就国内这狗屁倒灶的中文互联网环境啊……不过欣慰的是还是有人愿意向她贡献原创内容。感谢那些辛勤耕耘的内容创作者们。
 
 > ![](hashibira-inosuke.jpg)
 > # 猪突猛进！！！！！！！！！
